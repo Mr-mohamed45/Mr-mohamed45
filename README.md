@@ -19,11 +19,13 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Software Engineer, passionate about building web and software projects.  
-- :rocket: Always ready to collaborate and learn new technologies.  
-- :man_technologist: Skilled in HTML, CSS, SQL, JavaScript, Python, C, C++, PHP.  
-- :zap: Fun fact: I love exploring new tools, frameworks, and tech communities.  
-
+- :computer: I'm a passionate Software Engineer, specialized in **Systems Programming** and exploring **Artificial Intelligence**.  
+- :rocket: Currently a student at **Faculty of Sciences and Technology, Morocco**, constantly learning new technologies.  
+- :man_technologist: I started programming at the age of **14** and have been coding ever since!  
+- 🌟 Experienced in **projects for social good**, including a project that helps **visually impaired people navigate and complete daily tasks**.  
+- :zap: I love **learning anything related to technology**, experimenting with new tools, and building innovative solutions.  
+- :trophy: Ambitious and goal-oriented, always looking to collaborate with other developers and grow my skills.  
+- :sparkles: Fun fact: I enjoy exploring new frameworks, gadgets, and AI tools just for the thrill of learning!
 <h2 align="left">:trophy: My Coding Profiles:</h2>
 
 - [Hackerrank Profile](https://www.hackerrank.com/profile/mohamed_tayibi01)  
