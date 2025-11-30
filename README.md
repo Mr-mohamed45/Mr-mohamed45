@@ -2,7 +2,7 @@
   Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Mohamed Tayibi<br>
   <br>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJlZDk5c2ZsYjExZzR1b2s2em00aXBpbGxoMDVvaHh0c3doNzcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="Coder GIF" width="500">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNnaDMxZ2F1bHpwMHd2cXJmbXA4b2Rpd2l6Mm1odmdrYWx5bTdxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Coder GIF" width="500">
 </h2> 
 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
